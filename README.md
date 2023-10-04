@@ -68,9 +68,13 @@ Diret messaging between 2 users
 https://github.com/4emar/discord-clone.git
 </code>
 </pre>
-
 <button class="btn" data-clipboard-target="#code-snippet"/>
 
 ### Install packages
 
-[npm i]()
+<pre>
+<code id="code-snippet">
+npm i
+</code>
+</pre>
+<button class="btn" data-clipboard-target="#code-snippet"/>
