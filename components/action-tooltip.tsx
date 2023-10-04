@@ -4,7 +4,7 @@ import {
     Tooltip,
     TooltipContent,
     TooltipProvider,
-    TooltipTrigger
+    TooltipTrigger,
 } from "@/components/ui/tooltip";
 
 interface ActionTooltipProps {
@@ -28,7 +28,7 @@ export const ActionTooltip = ({
                 </TooltipTrigger>
                 <TooltipContent side={side} align={align}>
                     <p className="font-semibold text-sm capitalize">
-                        {label.toLocaleLowerCase()}
+                        {label.toLowerCase()}
                     </p>
                 </TooltipContent>
             </Tooltip>
