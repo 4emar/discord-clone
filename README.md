@@ -1,6 +1,6 @@
 # Discord clone using Next.js 13
 
-##This is a repository for a Discord clone created in Next.js 13, React, Socket.io, Prisma, Tailwind, PostgreSQL.
+## This is a repository for a Discord clone created in Next.js 13, React, Socket.io, Prisma, Tailwind, PostgreSQL.
 
 Features:
 -	Real-time messaging using Socket.io
