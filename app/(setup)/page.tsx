@@ -1,10 +1,10 @@
 import { redirect } from "next/navigation";
-import { initalProfile } from "@/lib/initial-profile";
+import { initialProfile } from "@/lib/initial-profile";
 import { db } from "@/lib/db";
 import { InitialModal } from "@/components/modals/initial-modal";
 
 const SetupPage = async () => {
-    const profile = await initalProfile();
+    const profile = await initialProfile();
 
     const server = await db.server.findFirst({
         where: {
