@@ -55,3 +55,11 @@ PDF File sent in chat
 
 Diret messaging between 2 users
 ![image](https://github.com/4emar/discord-clone/assets/81175325/a38d4cb8-8149-4e8a-986e-0261abe5cc19)
+
+### Cloning the repository
+
+[https://github.com](https://github.com/4emar/discord-clone.git)
+
+### Install packages
+
+[npm i]()
