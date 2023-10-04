@@ -58,7 +58,7 @@ Diret messaging between 2 users
 
 ### Cloning the repository
 
-[https://github.com](https://github.com/4emar/discord-clone.git)
+[GitHub]([https://github.com](https://github.com/4emar/discord-clone.git)https://github.com/4emar/discord-clone.git)
 
 ### Install packages
 
