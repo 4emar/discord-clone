@@ -62,7 +62,6 @@ Diret messaging between 2 users
 ![image](https://github.com/4emar/discord-clone/assets/81175325/a38d4cb8-8149-4e8a-986e-0261abe5cc19)
 
 ### Cloning the repository
-
 <pre>
 <code id="code-snippet">
 https://github.com/4emar/discord-clone.git
@@ -71,10 +70,50 @@ https://github.com/4emar/discord-clone.git
 <button class="btn" data-clipboard-target="#code-snippet"/>
 
 ### Install packages
-
 <pre>
 <code id="code-snippet">
 npm i
+</code>
+</pre>
+<button class="btn" data-clipboard-target="#code-snippet"/>
+
+### Setup .env file
+<pre>
+<code id="code-snippet">
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=
+
+
+DATABASE_URL=
+
+UPLOADTHING_SECRET=
+UPLOADTHING_APP_ID=
+
+LIVEKIT_API_KEY=
+LIVEKIT_API_SECRET=
+NEXT_PUBLIC_LIVEKIT_URL=
+</code>
+</pre>
+<button class="btn" data-clipboard-target="#code-snippet"/>
+
+### Setup Prisma
+Add the PostgreSQL database
+<pre>
+<code id="code-snippet">
+npx prisma generate
+npx prisma db push
+</code>
+</pre>
+<button class="btn" data-clipboard-target="#code-snippet"/>
+
+### Start the app
+<pre>
+<code id="code-snippet">
+npm run dev
 </code>
 </pre>
 <button class="btn" data-clipboard-target="#code-snippet"/>
