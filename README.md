@@ -69,9 +69,7 @@ https://github.com/4emar/discord-clone.git
 </code>
 </pre>
 
-<button class="btn" data-clipboard-target="#code-snippet">
-  Copy
-</button>
+<button class="btn" data-clipboard-target="#code-snippet"/>
 
 ### Install packages
 
