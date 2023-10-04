@@ -1,3 +1,5 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+
 # Discord clone using Next.js 13
 
 **This is a repository for a Discord clone created in Next.js 13, React, Socket.io, Prisma, Tailwind, PostgreSQL.**
@@ -58,7 +60,23 @@ Diret messaging between 2 users
 
 ### Cloning the repository
 
-[GitHub]([https://github.com](https://github.com/4emar/discord-clone.git)https://github.com/4emar/discord-clone.git)
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+
+<pre>
+<code id="code-snippet">
+// Your code here
+</code>
+</pre>
+
+<button class="btn" data-clipboard-target="#code-snippet">
+  Copy
+</button>
+
+<script>
+  new ClipboardJS('.btn');
+</script>
+
+
 
 ### Install packages
 
