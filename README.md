@@ -23,6 +23,13 @@
 -	PostgreSQL database using Planetscale
 -	Authentication with Clerk
 
+### Youtube video (functionality demo): 
+[![Watch the video](https://img.youtube.com/vi/irlj8GANpkg/hqdefault.jpg)](https://www.youtube.com/embed/irlj8GANpkg)
+
+[<img src="https://img.youtube.com/vi/irlj8GANpkg/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embedirlj8GANpkg)
+
+
 ### Screenshots:
 
 Create your server
