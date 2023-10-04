@@ -69,7 +69,7 @@ Diret messaging between 2 users
 
 <pre>
 <code id="code-snippet">
-// Your code here
+https://github.com/4emar/discord-clone.git
 </code>
 </pre>
 
