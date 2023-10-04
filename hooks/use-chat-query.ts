@@ -23,8 +23,8 @@ export const useChatQuery = ({
             url: apiUrl,
             query: {
                 cursor: pageParam,
-                [paramKey]: paramKey,
-            },
+                [paramKey]: paramValue,
+            }
         }, { skipNull: true });
 
         const res = await fetch(url);
